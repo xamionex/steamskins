@@ -15,6 +15,10 @@ order: 100
 5. Paste them in [!badge variant="dark" text="Steam/steamui/skins"]
    - Locate wherever steam is installed (default is [!badge variant="dark" text="C:\Program Files (x86)\Steam"])
      - If the [!badge variant="dark" text="skins"] folder doesn't exist, create it
+
+      **or**
+   
+   - Open SFP, press the `Open Files` button, and then press `skins`
 6. After pasting the folder, open SFP and go to Settings
    - It's located at the little :icon-gear: at the bottom left
 7. Scroll down and at Steam Skin choose either Fluent or Metro
