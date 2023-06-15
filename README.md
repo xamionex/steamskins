@@ -1,6 +1,7 @@
 ---
-label: "Getting Started"
 icon: home
+label: "Getting Started"
+order: 1000
 ---
 # Welcome to the Steam Skins Wiki
 
@@ -13,5 +14,5 @@ Configure any steam skin you installed
 !!!
 
 [!ref icon=":question:"](/faq.md)
-[!ref icon=":exclamation:"](/about.md)
-[!ref icon=":grey_exclamation:"](/license.md)
+[!ref icon=":exclamation:"](/license.md)
+[!ref icon=":heart:"](/credits.md)

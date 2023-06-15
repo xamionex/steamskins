@@ -1,4 +1,9 @@
-MIT License
+---
+icon: key
+label: License
+order: -200
+---
+# MIT License
 
 Copyright (c) 2023 amione
 
