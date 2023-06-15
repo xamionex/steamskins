@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: steamskinwiki.github.io
+url: steam-skins-wiki.pages.dev
 branding:
   title: Steam Skins Wiki
   label: Docs
@@ -13,15 +13,15 @@ meta:
 
 links:
   - text: Home
-    link: /index.md
+    link: /README.md
     icon: home
 
 footer:
   copyright: © Copyright {{ year }} - [Retype](https://retype.com/) - All rights reserved
   links:
     - text: About
-      link: about.md
+      link: ABOUT.md
       icon: question
     - text: License
-      link: license.md
+      link: LICENSE.md
       icon: shield-check
