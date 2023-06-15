@@ -1,0 +1,686 @@
+:root{
+	--scaleCarouselBtn: 2;
+	--bgClient: rgb(3, 37, 73);
+
+	--bgBtn: rgba( 103, 193, 245, 0.2 );
+	--bgBtnA: rgba(103,193,245, 0.9);
+	--bgPanel: rgb(30,110,147);
+	--bgHover: rgba(30, 110, 147, 0.5);
+
+	--bgScrollbar:rgba(255,255,255,.05);
+	--bgScrollbarH:rgba(255,255,255,.10);
+
+	--scalePrice: 1.0;
+	--HPriceBlock: 40px;
+
+	--ScaleBtn: 1.0;
+	--HPriceBtn: 40px;
+
+	/* DON'T CHANGE UNLESS YOU KNOW */
+	--WcarouselBtn: calc(1.5vw*var(--scaleCarouselBtn));
+	--HcarouselBtn: calc(1vw*var(--scaleCarouselBtn));
+	--nrFontBtn: calc(18px*var(--ScaleBtn));
+	--nrFontBlock: calc(18px*var(--scalePrice));
+}
+
+*{
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	/* border-radius: 0 !important; */
+	transition: none !important;
+	transition-duration: 0ms !important;
+	-webkit-transition: none !important;
+	-moz-transition: none !important;
+	-o-transition: none !important;
+}
+
+.responsive_page_frame {
+	background: var(--bgClient) !important;
+}
+.responsive_page_frame .responsive_page_content{
+	background: rgba(0,0,0,0.4) !important;
+}
+
+/* Activity Page fix
+======================= */
+/* Fix Activity Popups width */
+.flat_page .modal_frame{
+	width: 97% !important;
+	left: 0px !important;
+	margin: 0px 40px 0px 10px !important;
+}
+/* Fix Activity Popups not being scrollable */
+#modalContentFrameContainer{
+	height: 100% !important;
+	overflow: scroll !important;
+}
+/* At least try  RIP iframes*/
+#modalContentFrameContainer .modalContent_iFrame{
+	height: 900% !important;
+}
+
+/* Scrollbar
+================= */
+::-webkit-scrollbar,
+::-webkit-scrollbar-corner {
+	width: 16px;
+	height: 16px;
+	background: #1a1a1a;
+}
+::-webkit-scrollbar-button:vertical,
+::-webkit-scrollbar-track:vertical,
+::-webkit-scrollbar-thumb:vertical {
+	background-repeat: no-repeat;
+	background-position: center;
+	box-shadow: -1px 0 0 #000000;
+}
+::-webkit-scrollbar-button:horizontal,
+::-webkit-scrollbar-track:horizontal,
+::-webkit-scrollbar-thumb:horizontal {
+	background-repeat: no-repeat;
+	background-position: center;
+	box-shadow: 0 -1px 0 #000000;
+}
+::-webkit-scrollbar-thumb {
+	background-color: var(--bgScrollbar) !important;
+}
+::-webkit-scrollbar-thumb:hover {
+	background-color: var(--bgScrollbarH) !important;
+}
+::-webkit-scrollbar-track:vertical, ::-webkit-scrollbar-track:horizontal {
+	background-color: #1a1a1a;
+}
+/*
+::-webkit-scrollbar-thumb {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAD9JREFUeNpi/P//PwMhwAQibly/9h8fzUi0SefPnfuPjybepKNHjvxHpQ+j0MSbtGvXzv/I9G44vYN4kwACDAA7RESWY5qxTAAAAABJRU5ErkJggg==);
+}
+*/
+/* Up */
+::-webkit-scrollbar-button:vertical:decrement {
+	height: 22px;
+	background-position: center;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAQIDntwj7AAAAJUlEQVQI12OAgxQGBsaVDAxsbg4MkowTGFKAcAKDBIMDAwtMBQBYIAP5KnftSQAAAABJRU5ErkJggg==);
+}
+::-webkit-scrollbar-button:vertical:decrement:hover {
+	height: 22px;
+	background-position: center;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAX7+ciytYAAAAJUlEQVQI12OAgxQGBsaVDAxsbg4MkowTGFKAcAKDBIMDAwtMBQBYIAP5KnftSQAAAABJRU5ErkJggg==);
+}
+/* Down */
+::-webkit-scrollbar-button:vertical:increment {
+	height: 22px;
+	background-position: center;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAQIDntwj7AAAAJElEQVQI12OAAQcGFoYJDBIMKUAoyTiBgc3NgYFxJVAiBa4EAFbgA/lztmmEAAAAAElFTkSuQmCC);
+}
+::-webkit-scrollbar-button:vertical:increment:hover {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAX7+ciytYAAAAJElEQVQI12OAAQcGFoYJDBIMKUAoyTiBgc3NgYFxJVAiBa4EAFbgA/lztmmEAAAAAElFTkSuQmCC);
+}
+/* Left */
+::-webkit-scrollbar-button:horizontal:decrement {
+	width: 22px;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAQIDntwj7AAAAJElEQVQI12NgYHNgYJBkYGBIYWBgnADhcjGAaBAfLA6UBwsAAEcYAz8mgHA8AAAAAElFTkSuQmCC);
+}
+::-webkit-scrollbar-button:horizontal:decrement:hover {
+	width: 22px;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAX7+ciytYAAAAJElEQVQI12NgYHNgYJBkYGBIYWBgnADhcjGAaBAfLA6UBwsAAEcYAz8mgHA8AAAAAElFTkSuQmCC);
+}
+/* Right */
+::-webkit-scrollbar-button:horizontal:increment {
+	width: 22px;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAQIDntwj7AAAAI0lEQVQI12Ngc2BgYJzAwMCQAsSSQAwSYGoA0RB+CkgezAUAUN4Dt/sHRo4AAAAASUVORK5CYII=);
+}
+::-webkit-scrollbar-button:horizontal:increment:hover {
+	width: 22px;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALAgMAAADUwp+1AAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlMAX7+ciytYAAAAI0lEQVQI12Ngc2BgYJzAwMCQAsSSQAwSYGoA0RB+CkgezAUAUN4Dt/sHRo4AAAAASUVORK5CYII=);
+}
+
+/* Top Games Images Slideshow 
+===================================== */
+/* Carousel buttons */
+div.carousel_thumbs > div{
+	height: var(--HcarouselBtn) !important;
+	width: var(--WcarouselBtn) !important;
+	margin-left: 4px !important; /* buttons spacing */
+}
+/* Swap position of the price with OSs images */
+.store_main_capsule .discount_block{
+	left: auto !important;
+	right: 10px !important;
+}
+.store_main_capsule div > .discount_prices {
+	background: none !important;
+}
+.store_main_capsule div > .discount_prices *{
+	font-size: 20px !important;
+}
+.store_main_capsule div > .discount_pct{
+	font-size: 20px !important;
+	padding: 5px !important;
+}
+.store_main_capsule .platforms{
+	bottom: 5px !important;
+	right: auto !important;
+}
+/*Fix tags overlapping price*/
+.store_main_capsule .reason{
+	margin-top: 3px !important;
+}
+
+/* Special offers games
+============================ */
+.special_offers .daily_deal,
+.specials_target > .store_capsule {
+	background:var(--bgBtn) !important;
+}
+.special_offers .daily_deal .discount_block.daily_deal_discount > .discount_prices,
+.specials_target > .store_capsule .discount_block.daily_deal_discount > .discount_prices{
+	background-color: transparent !important;
+}
+/* Fix carousel buttons overlap*/
+.special_offers .spotlight .carousel_items{
+	height: 100% !important;
+}
+/* Remove countdown today deal text */
+.special_offers .dailydeal_desc div{
+	display: none !important;
+}
+/* Fit Countdown in div */
+.special_offers .dailydeal_desc {
+	float: none !important;
+	padding: 0 !important;
+}
+/* Re-design countdown */
+.special_offers .dailydeal_desc > .dailydeal_countdown{
+	display: -webkit-box !important;
+	font-size: var(--nrFontBlock) !important;
+	padding: 5px 0px 5px 0px !important;
+	margin: 0 !important;
+	width: 100% !important;
+    display: -webkit-box !important;
+    -webkit-box-pack: center !important;
+    -webkit-box-align: center !important;
+}
+/* Special offer spotlight panel usually the tallest */
+.special_offers .home_area_spotlight{
+	height: auto !important;
+	background-image: none !important;
+	background: var(--bgBtn) !important;
+}
+.special_offers .spotlight_weeklong_subtitle{
+	font-size: 18px !important;
+}
+/* Midweek blocks width fix*/
+.special_offers .spotlight_content{
+	padding: 0 !important;
+	width: 100% !important;
+	background-image: none !important;
+	background: var(--bgPanel) !important;
+	text-align: center !important;
+}
+.special_offers .spotlight_content h2{
+	margin: 5px 0 5px 0 !important;
+}
+.special_offers .spotlight_content *:not(.spotlight_price) {
+	padding-left: 4px !important;
+	padding-right: 4px !important;
+}
+.special_offers .spotlight_content .spotlight_body:not(.spotlight_price){
+	margin-bottom: 8px !important;
+}
+/* Reposition and center other game blocks price*/
+.special_offers .spotlight_content .discount_block.discount_block_spotlight.discount_block_large,
+.special_offers .discount_block.daily_deal_discount.discount_block_large,
+.specials_target > .store_capsule .discount_block{
+	padding: 0 !important;
+	width: 100% !important;
+	display: flex !important;
+}
+
+.special_offers .spotlight_content .discount_block.discount_block_spotlight.discount_block_large > .discount_pct,
+.special_offers .discount_block.daily_deal_discount.discount_block_large > .discount_pct,
+.specials_target > .store_capsule .discount_block > .discount_pct{
+	width: 100% !important;
+	display : -webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+}
+
+.special_offers .spotlight_content .discount_block.discount_block_spotlight.discount_block_large > .discount_prices,
+.special_offers .discount_block.daily_deal_discount.discount_block_large > .discount_prices,
+.specials_target > .store_capsule .discount_block > .discount_prices{
+	width: 100% !important;
+	height: var(--HPriceBlock) !important;
+	padding: 0 !important;
+	font-size: var(--nrFontBlock) !important;
+	display : -webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+	white-space: nowrap;
+	padding: 0px 4px !important;
+}
+
+.special_offers .spotlight_content .discount_block.discount_block_spotlight.discount_block_large > .discount_prices  > .discount_original_price,
+.special_offers .discount_block.daily_deal_discount.discount_block_large > .discount_prices  > .discount_original_price,
+.specials_target > .store_capsule .discount_block > .discount_prices > .discount_original_price{
+	font-size: inherit !important;
+}
+
+.special_offers .spotlight_content .discount_block.discount_block_spotlight.discount_block_large > .discount_prices  > .discount_final_price,
+.special_offers .discount_block.daily_deal_discount.discount_block_large > .discount_prices  > .discount_final_price,
+.specials_target > .store_capsule .discount_block > .discount_prices > .discount_final_price{
+	padding-left: 20px !important;
+	display: inline !important;
+	font-size: inherit !important;
+}
+
+
+/* Game Blocks price/discount area
+=============================== */
+.store_capsule_container .store_capsule{
+	background: var(--bgPanel) !important;
+	border: 1px transparent solid !important;
+	background-clip: padding-box !important;
+}
+.store_capsule_container .store_capsule:hover{
+	border-color: var(--bgBtnA) !important;
+}
+.store_capsule_container .store_capsule .discount_block,
+.store_capsule_container .store_capsule .no_discount,
+.store_capsule_container .store_capsule .discount_block_inline{
+	background: var(--bgBtn) !important;
+	padding: 0 !important;
+	height: var(--HPriceBlock) !important;
+	font-size: var(--nrFontBlock) !important;
+}
+/* Fix game block height overlapping carousel buttons */
+.friends_recently_purchased .carousel_items,
+.more_apps_by_curators_capsule .carousel_items,
+.specials_under10 .carousel_items:not(.no_paging), 
+.wishlist_on_sale .carousel_items:not(.no_paging){
+	height: 100% !important;
+}
+/* Center game block prices */
+.store_capsule_container .store_capsule .discount_block .discount_prices{
+	background-color: none !important;
+	padding: 0 !important;
+	height: inherit !important;
+	width: 100% !important;
+	display:-webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+	white-space: nowrap !important;
+	padding: 0px 4px !important;
+}
+/* Global Font change */
+.store_capsule_container .store_capsule .discount_block .discount_prices *{
+	font-size: inherit !important;
+}
+.store_capsule_container .store_capsule .friends_container{
+	text-align: center !important;
+}
+/* Fix for discount block centering  */
+.store_capsule_container .store_capsule .discount_block:not(.discount_block_large) .discount_pct{
+	position: absolute !important;
+	font-size: inherit !important;
+	height: inherit !important;
+	display:-webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+}
+/* Redesign curator block */
+.store_capsule_container .recommended_creators_container{
+	width: 100% !important;
+	padding: 0 !important;
+	height: 52px !important;
+	background: var(--bgBtn) !important;  
+} 
+.store_capsule_container .recommended_creators_container .avatars{
+	top: auto !important;
+	height: inherit !important;
+	display: flex !important;
+}
+.store_capsule_container .recommended_creators_container .avatars > a{
+	z-index: 1 !important;
+	height: 48px !important;
+}
+.store_capsule_container .recommended_creators_container .avatars > a img{
+	height: var(--HPriceBlock) !important;
+	margin: 5px !important;
+}
+.store_capsule_container .recommended_creators_container .avatars .actions{
+	position: absolute !important;
+	bottom: auto !important;
+	width:100% !important;
+	height:100% !important;
+}
+.store_capsule_container .recommended_creators_container .avatars .actions:hover{
+	background:var(--bgBtnA) !important;
+}
+.store_capsule_container .recommended_creators_container .avatars .actions > a{
+	display: -webkit-inline-box !important; 
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+	width: inherit !important;
+	height: inherit !important;
+}
+.store_capsule_container .recommended_creators_container .avatars .actions > a > span{
+	display: inline !important;
+	border: none !important;
+	font-size: var(--nrFontBlock) !important;
+}
+
+/* Bottom Games after keep scrolling
+=============================== */
+/* Cash Text moved to top right */
+.gamelink .discount_block, 
+.gamelink .discount_block_inline,
+.gamelink .no_discount {
+	position: absolute !important;
+	right: 1px !important;
+	bottom: 120% !important;
+}
+.gamelink div > .discount_prices {
+	background: none !important;
+}
+.gamelink div > .discount_prices *{
+	font-size: 20px !important;
+}
+.gamelink div > .discount_pct {
+	display: block !important;
+	font-size: 20px !important;
+	padding: 5px !important;
+	text-align: center !important;
+	margin-bottom: -50px !important;
+}
+/* Bottom buttons flat design */
+.single_buttonbar {
+	padding: 0 !important;
+	margin-top: 0 !important;
+	display: flex !important;
+	height: var(--HPriceBtn) !important;
+}
+.single_buttonbar .btn_small_tall > span {
+	font-size: var(--nrFontBtn) !important;
+}
+.single_buttonbar .btn_small_tall{
+	border-radius: 0px !important;
+	display: -webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+	flex-grow: 1 !important;
+	text-align: center !important;
+	margin-right: 1px !important;
+}
+.single_buttonbar .btn_small_tall:not(.btn_disabled):not(:disabled):not(.btn_active):not(.active):hover{
+	 background: var(--bgBtnA) !important;
+}
+.single_buttonbar .buttonbar_spacer{
+	width: auto !important;
+}
+.single_buttonbar .right{
+	margin-right: auto !important;
+}
+
+/* Recent playtime games */
+ .home_content_items .home_smallcap_title {
+	background: var(--bgBtn) !important;
+	min-height: var(--HPriceBlock) !important;
+	font-size: var(--nrFontBlock) !important;
+	display:-webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+	white-space: normal !important;
+	margin-top: -3px !important;
+} 
+
+/* Fix discount/price alignment */
+.home_content_items .discount_block,
+.home_content_items .discount_block_inline{
+	display: flex !important;
+    width: 100% !important;
+}
+.home_content_items div .discount_prices{
+	height: var(--HPriceBlock) !important;
+	width: 100% !important;
+	background: var(--bgPanel) !important;
+	font-size: var(--nrFontBlock) !important;
+	display:-webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+	background-color: none !important;
+	padding: 0 !important;
+	white-space: nowrap !important;
+	padding: 0px 4px !important;
+}
+.home_content_items div .discount_prices *{
+	font-size: inherit !important;
+}
+.home_content_items div .discount_pct{
+	padding: 0px !important;
+	width: 100% !important;
+    font-size: var(--nrFontBlock) !important;
+    display: -webkit-box !important;
+    -webkit-box-pack: center !important;
+    -webkit-box-align: center !important;
+}
+
+/* Steam Browse buttons
+=========================== */
+.home_ctn .big_buttons h2{
+	display: none !important;
+}
+.home_ctn .big_buttons .btn_wrapper a {
+	background-image:none !important;
+	background: var(--bgBtn) !important;
+}
+.home_ctn .big_buttons .btn_wrapper a:hover{
+	color:white !important;
+	background: var(--bgBtnA) !important;
+}
+
+ /* Header Category Game Blocks
+======================= */
+.home_ctn .special_offers,
+.live_streams_ctn .home_page_content,
+.apps_recommended_by_curators_ctn .home_page_content,
+.friends_recently_purchased .home_page_content,
+.recommended_creators_ctn .home_page_content,
+.best_selling_vr_ctn .home_page_content{
+	padding: 0 !important;
+}
+/* Fix Recent Updated height */
+.home_ctn .recently_updated_apps .carousel_items{
+	height: initial !important;
+}
+
+/* Under 10  */
+.specials_under10  h2 {
+	color: inherit !important;
+	visibility: hidden !important;
+}
+.specials_under10  h2 .right {
+	visibility: visible !important;
+	color: inherit !important;
+	display: flex !important;
+    height: var(--HPriceBtn) !important;
+	width: 100% !important;
+	top: 0px !important;
+	float: none !important;
+}
+.specials_under10  h2 .right a{
+	color: inherit !important;
+	background: var(--bgBtn) !important;
+	width: 100% !important;
+	height: 100% !important;
+	display: flex !important;
+	border-radius: 0 !important;
+}
+.specials_under10  h2 .right a:hover{
+	background: var(--bgBtnA) !important;
+}
+.specials_under10  h2 .right a span{
+	width: 100% !important;
+	font-size: var(--nrFontBtn) !important;
+    display: -webkit-inline-box !important;
+    -webkit-box-pack: center !important;
+    -webkit-box-align: center !important;
+	height: inherit !important;
+	border: none !important;
+}
+.specials_under10 div .bundle_base_discount{
+	position: absolute !important;
+	font-size: inherit !important;
+	height: inherit !important;
+	display: -webkit-box !important;
+	-webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+}
+/* Streaming Now & Popular vr & Discovery Queue & From Devs and Publ & Recent Updated */
+.more_apps_by_curators_capsule h2,
+.home_ctn .special_offers h2,
+.apps_recommended_by_curators_ctn .home_page_content h2,
+.live_streams_ctn .home_page_content h2,
+.friends_recently_purchased .home_page_content h2,
+.best_selling_vr_ctn .home_page_content h2,
+.discovery_queue_ctn .home_page_content h2,
+.recommended_creators_ctn .home_page_content h2,
+.recently_updated_block .recently_updated_apps h2{
+	color: inherit !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+	height: var(--HPriceBtn) !important;
+	font-size: var(--nrFontBtn) !important;
+}
+.home_ctn .special_offers .right:not(.arrow),
+.apps_recommended_by_curators_ctn .home_page_content h2 .right,
+.live_streams_ctn .home_page_content .home_right_btn,
+.friends_recently_purchased .home_page_content h2 .right,
+.best_selling_vr_ctn .home_page_content h2 .right,
+.discovery_queue_ctn .home_page_content h2 .right,
+.recommended_creators_ctn .home_page_content h2 .right,
+.recently_updated_block .recently_updated_apps h2 .right {
+	background: var(--bgBtn) !important;
+	width: 100% !important;
+    position: absolute !important;
+	height: inherit !important;
+	top: 0 !important;
+}
+.home_ctn .special_offers .right:not(.arrow) a span,
+.apps_recommended_by_curators_ctn .home_page_content h2 .right a span,
+.live_streams_ctn .home_page_content .home_right_btn a span,
+.friends_recently_purchased .home_page_content h2 .right a span,
+.best_selling_vr_ctn .home_page_content h2 .right a span,
+.discovery_queue_ctn .home_page_content h2 .right a span,
+.recommended_creators_ctn .home_page_content h2 .right a span,
+.recently_updated_block .recently_updated_apps h2 .right a span{
+	font-size: var(--nrFontBtn) !important;
+	border: none !important;
+}
+.home_ctn .special_offers .right:not(.arrow) a,
+.apps_recommended_by_curators_ctn .home_page_content h2 .right a,
+.live_streams_ctn .home_page_content .home_right_btn a,
+.friends_recently_purchased .home_page_content h2 .right a,
+.best_selling_vr_ctn .home_page_content h2 .right a,
+.discovery_queue_ctn .home_page_content h2 .right a,
+.recommended_creators_ctn .home_page_content h2 .right a,
+.recently_updated_block .recently_updated_apps h2 .right a {
+	opacity: 0 !important;
+	width: 100% !important;
+    height: var(--HPriceBtn) !important;
+    display: -webkit-box !important;
+    -webkit-box-pack: center !important;
+    -webkit-box-align: center !important;
+}
+.home_ctn .special_offers .right:not(.arrow) a:hover,
+.apps_recommended_by_curators_ctn .home_page_content h2 .right a:hover,
+.live_streams_ctn .home_page_content .home_right_btn a:hover,
+.friends_recently_purchased .home_page_content h2 .right a:hover,
+.best_selling_vr_ctn .home_page_content h2 .right a:hover,
+.discovery_queue_ctn .home_page_content h2 .right a:hover,
+.recommended_creators_ctn .home_page_content h2 .right a:hover,
+.recently_updated_block .recently_updated_apps h2 .right a:hover {
+	opacity:1 !important;
+	background: var(--bgBtnA) !important;
+}
+
+/* Fix recommended curators margins */
+.apps_recommended_by_curators_ctn .store_capsule_frame{
+	padding: 0 !important;
+	margin: 0 !important;
+	background: none !important;
+	border: none !important;
+}
+.apps_recommended_by_curators_ctn {
+	background: none !important;
+}
+.apps_recommended_by_curators_ctn h2{
+	margin-top: 0 !important;
+}
+/* Recommended Curators Wishlist/Ignore btn */
+.apps_recommended_by_curators_ctn .store_capsule_frame .giant_curator_controls{
+	background: var(--bgBtn) !important;
+    display: flex !important;
+    height: var(--HPriceBtn) !important;
+}
+.apps_recommended_by_curators_ctn .store_capsule_frame .giant_curator_controls span{
+	width: 100% !important;
+	font-size: var(--nrFontBtn) !important;
+	margin: 0 !important;
+    display: -webkit-box !important;
+    -webkit-box-pack: center !important;
+    -webkit-box-align: center !important;
+}
+.apps_recommended_by_curators_ctn .store_capsule_frame .giant_curator_controls span:hover{
+	background: var(--bgBtnA) !important;
+	color: white !important;
+}
+
+/* Market Top Button
+================== */
+.market_header_bg,
+.market_header_bg #BG_top{
+	width: 100% !important;
+	background-color: transparent !important;
+}
+.market_header_bg #BG_top .market_header_logo{
+	background-image: none !important;
+}
+.market_header_bg #BG_top .market_header_logo:hover{
+	background: rgba(70,96,42, 0.4) !important;
+}
+.user_info {
+	background: none !important;
+	padding: 0 20px 0 0 !important;
+	top: 0 !important;
+	display:flex !important;
+	width: 100% !important;
+	height: 100% !important;
+	border: none !important;
+}
+.user_info .user_info_text{
+	display: flex !important;
+	width: 100% !important;
+	flex-direction: column-reverse !important;
+	max-width: none !important;
+	margin: 0 !important;
+}
+.user_info .user_info_text a{
+	height: 100% !important;
+	width: 100% !important;
+	font-size: var(--nrFontBtn) !important;
+	display: -webkit-box !important;
+    -webkit-box-pack: center !important;
+	-webkit-box-align: center !important;
+	text-decoration: none !important;
+}
+.user_info .user_info_text a:hover{
+	background: var(--bgBtn) !important;
+}
+.user_info .user_info_text br,
+.user_info .iconHolder_in-game,
+.user_info .iconHolder_online,
+.user_info .iconHolder_offline{
+	display:none !important;
+}

@@ -14,29 +14,43 @@ To check if your skin has it or doesn't check if it has this inside the library.
 @import url('config.css');
 ```
 
-After confirming this, you can freely customize the skin, to create this file and customize your skin read the below guide
+After confirming this, you can freely customize the skin, to create this file and customize your skin read the below guide\
+In case it doesn't have this, you can add it at the beginning or after all the skins' own imports
 
 ## Customizing any skin with config.css
 
-+++ Skin specific customization
++++ Skin specific customization using config.css
 
-1. In [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"] create a [!badge variant="dark" text="config.css"]
-    - If you don't know how right click an empty space, under `New` select `Text document`, then rename it to `config.css`
+Customization when you have a steam skin selected with SFP
+
+1. In [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"] create a [!badge variant="dark" text="config.css"] file
+   - If you don't know how right click an empty space, under `New` select `Text document`, then rename it to `config.css`
 2. Open the `config.css` file with a text or code editor
-    - If you don't have anything open it with Notepad, it's preinstalled on windows
-3. Add any code configuration you want
-   - **Examples below**
-+++ Global customization
-1. In [!badge variant="dark" text="Steam/steamui/"] create a [!badge variant="dark" text="libraryroot.custom.css"]
-    - If you don't know how right click an empty space, under `New` select `Text document`, then rename it to `libraryroot.custom.css`
+   - If you don't have anything open it with Notepad, it's preinstalled on windows
+3. Add any code customization you want
++++ Skin specific customization without using config.css
+
+Customization when you have a steam skin selected with SFP but dont want to make a config.css file
+
+1. In [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"] open the [!badge variant="dark" text="libraryroot.custom.css"] file with a text or code editor
+   - If you don't have anything open it with Notepad, it's preinstalled on windows
+2. Add any code customization you want
++++ No skin customization
+
+Customization without a skin activated
+
+1. In [!badge variant="dark" text="Steam/steamui/"] create a [!badge variant="dark" text="libraryroot.custom.css"] file
+   - If you don't know how right click an empty space, under `New` select `Text document`, then rename it to `libraryroot.custom.css`
 2. Open the `libraryroot.custom.css` file with a text or code editor
-    - If you don't have anything open it with Notepad, it's preinstalled on windows
-3. Add any code configuration you want
-   - **Examples below**
+   - If you don't have anything open it with Notepad, it's preinstalled on windows
+3. Add any code customization you want
 +++
+
+### Customization examples
+
 +++ Fluent/Metro Customization Example
 
-**Changing the variables in this example changes the color of the play and install buttons**
+#### Changing the variables in this example changes the color of the play and install buttons
 
 ```css
 :root {

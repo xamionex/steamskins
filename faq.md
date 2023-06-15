@@ -23,9 +23,10 @@ To get started with this visit [this guide](/guides/customization.md)
 
 +++ Steam is launching but skin isnt loading or is broken
 
-1. Close steam and delete everything in %localappdata%\Steam\htmlcache\Cache\
-2. Go to Steam Settings > Downloads > Press Clear Downloads Cache Button
+Clearing cache may solve this:
 
+- [!badge variant="dark" text="1st method"]: Close steam and delete everything in [!badge variant="dark" text="%localappdata%\Steam\htmlcache\Cache\"]
+- [!badge variant="dark" text="2nd method"]: Open steam, at the top left click Steam (or the steam icon) > Settings > Downloads > Press Clear Downloads Cache Button
 - The above actions can solve the following problems:
   - the webpages look broken or are displaying broken content
   - the skins related to library, friends panel, chat don't work
@@ -53,7 +54,7 @@ There is multiple ways to do this
 +++ Shortcut way (2nd best)
 
 1. Right click the steam shortcut wherever you have it and add a parameter at the end of the path
-![Steam properties menu](assets/steam_properties.png)
+![Steam properties menu](assets/images/steam_properties.png)
 
 +++ Registry startup way
 Note that this method is unreliable and risky if you don't know what you're doing

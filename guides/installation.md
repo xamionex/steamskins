@@ -31,7 +31,10 @@ To install the base skin [!badge target="blank" variant="info" text="press the :
 and then copy [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]\
 [!badge target="blank" variant="ghost" text="You can see the source code here"](https://github.com/LaserFlash/steam-chat-skin/)
 !!!
-After downloading paste the css into your custom skins' folder (Fluent, Metro, etc....) and you're done.
++++ Better Store page in terms of usability
+!!!
+[!badge target="blank" variant="info" text="Open this page"](/assets/webkit.css) then [!badge variant="dark" text="press CTRL + S and save"]/[!badge variant="dark" text="right click and empty space and click Save Page As"] [!badge variant="dark" text="webkit.css"] inside [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
+!!!
 +++ More coming soon...
 There isn't any other skins I could find, you could edit this page and add it yourself, or inform me to add it by making an issue on github
 +++
