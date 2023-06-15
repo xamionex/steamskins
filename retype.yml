@@ -1,0 +1,27 @@
+input: .
+output: .retype
+url: steamskinwiki.github.io
+branding:
+  title: Steam Skins Wiki
+  label: Docs
+
+edit:
+  repo: github.com/xamionex/steam-skins-wiki
+
+meta:
+  title: " - Getting started with steam skins"
+
+links:
+  - text: Home
+    link: /index.md
+    icon: home
+
+footer:
+  copyright: © Copyright {{ year }} - [Retype](https://retype.com/) - All rights reserved
+  links:
+    - text: About
+      link: about.md
+      icon: question
+    - text: License
+      link: license.md
+      icon: shield-check
