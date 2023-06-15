@@ -19,9 +19,9 @@ links:
 footer:
   copyright: © Copyright {{ year }} - [Retype](https://retype.com/) - All rights reserved
   links:
-    - text: About
-      link: ABOUT.md
-      icon: question
+    - text: Credits
+      link: credits.md
+      icon: heart
     - text: License
       link: LICENSE.md
       icon: shield-check
