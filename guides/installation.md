@@ -41,6 +41,13 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 !!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam/steamui"] or make a new folder with it.
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/newsteamchat)
+!!!
+==- Space Theme by SpaceEnergy
+!!!warning This skin was made to be used with Millenium, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
+To install this skin you can follow the [!badge target="blank" variant="info" text="guide provided by the author"](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
+!!!
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SpaceEnergy/SpaceTheme-Steam)
+!!!
 ==-
 
 ## Addons for your already existing skins
