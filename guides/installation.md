@@ -11,7 +11,7 @@ order: 100
 [!badge target="blank" variant="info" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-win10-x64-SelfContained.zip) [!badge target="blank" variant="info" text="Linux"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-linux-x64-SelfContained.tar.gz) [!badge target="blank" variant="info" text="Mac"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-osx-x64-SelfContained.tar.gz) [!badge text="Recommended"]
 !!!
 !!!dark In case you want to use the Millenium patcher, download it for [!badge target="blank" variant="dark" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/millennium.exe)
-Note that this patcher has it's own way of patching and requires you to manually add css, [!badge target="blank" variant="dark" text="read more at it's source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
+Note that this patcher has its own way of patching and requires you to manually add css, [!badge target="blank" variant="dark" text="read more at its source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
 !!!
 
 ### Installing a theme
@@ -24,14 +24,14 @@ Note that this patcher has it's own way of patching and requires you to manually
      - Open SFP, press the `Open Files` button, and then press `skins`
    - [ ] or find the steam folder manually
      - Locate wherever steam is installed yourself (default is [!badge variant="dark" text="C:\Program Files (x86)\Steam"])
-     - If the [!badge variant="dark" text="skins"] folder doesn't exist, create it
+     - If the [!badge variant="dark" text="skins"] folder doesn't exist in [!badge variant="dark" text="steamui"], create it
 5. Open SFP and open the Settings :icon-gear: at the bottom left
 6. Scroll down and at Steam Skin choose either Fluent or Metro
 7. Done.
 
 ## Installing additional skins
 
-Before continuing this first install a regular skin like metro or fluent.\
+Before continuing this, first install a regular skin like metro or fluent.\
 Follow the guide above if you don't know how
 
 ==- Steam Friends Skin
@@ -42,10 +42,10 @@ To install the base skin: [!file Download](https://raw.githubusercontent.com/Las
 !!!
 ==- Better Store page in terms of usability
 [!file Download](/assets/css/webkit.css)
-!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
+!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam/steamui/skins"]
 !!!
 !!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
 ==- More coming soon...
-There isn't any other skins I could find, you could edit this page and add it yourself, or inform me to add it by making an issue on github
+There aren't any other skins I could find. If there is a skin you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
