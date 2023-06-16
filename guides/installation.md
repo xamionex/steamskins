@@ -10,7 +10,7 @@ order: 100
 !!! Download the [!badge target="blank" variant="info" text="latest SFP release"](https://github.com/PhantomGamers/SFP/releases)
 [!badge target="blank" variant="info" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-win10-x64-SelfContained.zip) [!badge target="blank" variant="info" text="Linux"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-linux-x64-SelfContained.tar.gz) [!badge target="blank" variant="info" text="Mac"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-osx-x64-SelfContained.tar.gz) [!badge text="Recommended"]
 !!!
-!!!dark In case you want to use the Millenium patcher, download it for [!badge target="blank" variant="dark" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/millennium.exe)
+!!!dark In case you want to use the Millennium patcher, download it for [!badge target="blank" variant="dark" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/millennium.exe)
 Note that this patcher has its own way of patching and requires you to manually add css, [!badge target="blank" variant="dark" text="read more at its source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
 !!!
 
@@ -47,7 +47,7 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/newsteamchat)
 !!!
 ==- Space Theme by SpaceEnergy
-!!!warning This skin was made to be used with Millenium, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
+!!!warning This skin was made to be used with Millennium, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
 To install this skin with Millennium, you can follow the [!badge target="blank" variant="info" text="guide provided by the author"](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SpaceEnergy/SpaceTheme-Steam)
