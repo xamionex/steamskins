@@ -29,8 +29,8 @@ Note that this patcher has its own way of patching and requires you to manually 
 6. Scroll down and at Steam Skin choose either Fluent or Metro
 7. Done.
 
-!!! If you're using Metro and want to use it's JS
-Move the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"])
+!!! If you're using Metro and want to use its JS
+Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
 !!!
 
 ## Other skins
@@ -42,13 +42,13 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 ==- Metro and steam chat by RoseTheFlower
 [!file Chat](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/friends.custom.css)
 [!file Library](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/libraryroot.custom.css)
-!!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or make a new folder with it.
+!!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with it in [!badge variant="dark" text="Steam\steamui\skins"].
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/newsteamchat)
 !!!
 ==- Space Theme by SpaceEnergy
 !!!warning This skin was made to be used with Millenium, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
-To install this skin you can follow the [!badge target="blank" variant="info" text="guide provided by the author"](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
+To install this skin with Millennium, you can follow the [!badge target="blank" variant="info" text="guide provided by the author"](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SpaceEnergy/SpaceTheme-Steam)
 !!!
@@ -64,23 +64,23 @@ Follow the guide above if you don't know how
 !!!
 To install the base skin:
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/LaserFlash/steam-chat-skin/main/friends.custom.css)
-!!!success Save it as [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 ==- Dark Store pages
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/AikoMidori/steam-dark-mode/master/webkit.css)
-!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 !!!warning This has yet to be updated for the new steam, check out the beta below, you can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
 !!!
 ==- Beta Dark Store pages
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/BallOpener/steam-dark-mode/beta2/css/webkit.css)
-!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 !!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
 !!!
 ==- Better Store pages in terms of usability
 [!file RIGHT CLICK this and select Save Link As](/assets/css/webkit.css)
-!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 !!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
