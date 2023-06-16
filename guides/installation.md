@@ -40,7 +40,19 @@ Follow the guide above if you don't know how
 To install the base skin: [!file Download](https://raw.githubusercontent.com/LaserFlash/steam-chat-skin/main/friends.custom.css)
 !!!success After you've downloaded it, copy [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
 !!!
-==- Better Store page in terms of usability
+==- Dark Store pages
+[!file Download](https://raw.githubusercontent.com/AikoMidori/steam-dark-mode/master/webkit.css)
+!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
+!!!
+!!!warning This has yet to be updated for the new steam, check out the beta below, you can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
+!!!
+==- Beta Dark Store pages
+[!file Download](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
+!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
+!!!
+!!!warning This has yet to be updated for the new steam, check out the beta below, you can see the [!badge target="blank" variant="dark" text="source code here"]()
+!!!
+==- Better Store pages in terms of usability
 [!file Download](/assets/css/webkit.css)
 !!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
 !!!
