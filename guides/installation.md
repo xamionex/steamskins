@@ -32,14 +32,16 @@ Before continuing this first install a regular skin like metro or fluent.\
 Follow the guide above if you don't know how
 
 ==- Steam Friends Skin
-!!! :gear: This skin features a [!badge target="blank" variant="info" text="site with customizability"](https://chat.lasr.skin/) :gear:
-To install the base skin [!badge target="blank" variant="info" text="press the :icon-download: button on the right side from this page"](https://github.com/LaserFlash/steam-chat-skin/blob/main/friends.custom.css)\
-and then copy [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]\
-[!badge target="blank" variant="ghost" text="You can see the source code here"](https://github.com/LaserFlash/steam-chat-skin/)
+!!! :gear: This skin features a [!badge target="blank" variant="info" text="site with customizability"](https://chat.lasr.skin/) [!badge target="blank" variant="ghost" text="Source code"](https://github.com/LaserFlash/steam-chat-skin/) :gear:
+!!!
+To install the base skin: [!file Download](https://raw.githubusercontent.com/LaserFlash/steam-chat-skin/main/friends.custom.css)
+!!!success After you've downloaded it, copy [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
 !!!
 ==- Better Store page in terms of usability
+[!file Download](/assets/css/webkit.css)
+!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
 !!!
-[!badge target="blank" variant="info" text="Open this page"](/assets/webkit.css) then [!badge variant="dark" text="press CTRL + S and save"]/[!badge variant="dark" text="right click and empty space and click Save Page As"] [!badge variant="dark" text="webkit.css"] inside [!badge variant="dark" text="Steam/steamui"] or [!badge variant="dark" text="Steam/steamui/\<YOUR SKIN\>"]
+!!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
 ==- More coming soon...
 There isn't any other skins I could find, you could edit this page and add it yourself, or inform me to add it by making an issue on github
