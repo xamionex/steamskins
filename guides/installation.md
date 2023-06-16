@@ -47,7 +47,7 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/newsteamchat)
 !!!
 ==- Space Theme by SpaceEnergy
-!!!warning This skin was made to be used with Millennium, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
+!!!warning This skin was made to be used with Millennium BUT it can also be used with SFP, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
 To install this skin with Millennium, you can follow the [!badge target="blank" variant="info" text="guide provided by the author"](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SpaceEnergy/SpaceTheme-Steam)
