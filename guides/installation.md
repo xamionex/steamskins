@@ -21,13 +21,17 @@ Note that this patcher has its own way of patching and requires you to manually 
 3. Copy/Cut the 2 folders [!badge variant="dark" text="Metro, Fluent"]
 4. Paste your skin(s)
    - [x] Find the steam folder using SFP [!badge variant="info" text="Recommended"]
-     - Open SFP, press the `Open Files` button, and then press `skins`
+     - Open SFP, press the [!badge variant="dark" text="Open Files"] button, and then press [!badge variant="dark" text="skins"]
    - [ ] or find the steam folder manually
      - Locate wherever steam is installed yourself (default is [!badge variant="dark" text="C:\Program Files (x86)\Steam"])
      - If the [!badge variant="dark" text="skins"] folder doesn't exist
 5. Open SFP and open the Settings :icon-gear: at the bottom left
 6. Scroll down and at Steam Skin choose either Fluent or Metro
 7. Done.
+
+!!! If you're using Metro and want to use it's JS
+Move the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"])
+!!!
 
 ## Other skins
 
@@ -38,7 +42,7 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 ==- Metro and steam chat by RoseTheFlower
 [!file Chat](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/friends.custom.css)
 [!file Library](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/libraryroot.custom.css)
-!!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or make a new folder with it.
+!!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or make a new folder with it.
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/newsteamchat)
 !!!
@@ -60,23 +64,23 @@ Follow the guide above if you don't know how
 !!!
 To install the base skin:
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/LaserFlash/steam-chat-skin/main/friends.custom.css)
-!!!success Save it as [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
 !!!
 ==- Dark Store pages
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/AikoMidori/steam-dark-mode/master/webkit.css)
-!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
 !!!
 !!!warning This has yet to be updated for the new steam, check out the beta below, you can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
 !!!
 ==- Beta Dark Store pages
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/BallOpener/steam-dark-mode/beta2/css/webkit.css)
-!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
 !!!
 !!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
 !!!
 ==- Better Store pages in terms of usability
 [!file RIGHT CLICK this and select Save Link As](/assets/css/webkit.css)
-!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui\skins"] or to the folder of your active skin
 !!!
 !!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
