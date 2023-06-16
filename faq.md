@@ -40,7 +40,11 @@ Back up your skins from [!badge variant="danger" text="Steam/steamui/skins"] bef
 2. Go to the steam folder and delete [!badge variant="dark" text="Steam/steamui"] and [!badge variant="dark" text="Steam/clientui"]
 +++
 
-## How do i start steam with parameters?
+## How do I uninstall?
+
+[!badge target="blank" variant="info" text="Look at this guide"](/guides/installation.md#uninstalling)
+
+## How do I start steam with parameters?
 
 There is multiple ways to do this
 

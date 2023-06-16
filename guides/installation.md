@@ -29,7 +29,21 @@ Note that this patcher has its own way of patching and requires you to manually 
 6. Scroll down and at Steam Skin choose either Fluent or Metro
 7. Done.
 
-## Installing additional skins
+## Other skins
+
+==- Metro and fluent by Shiina
+!!!success Read the guide above for installing this.
+You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
+!!!
+==- Metro and steam chat by RoseTheFlower
+[!file Chat](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/friends.custom.css)
+[!file Library](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/libraryroot.custom.css)
+!!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam/steamui"] or make a new folder with it.
+!!!
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/newsteamchat)
+==-
+
+## Addons for your already existing skins
 
 Before continuing this, first install a regular skin like metro or fluent.\
 Follow the guide above if you don't know how
@@ -61,3 +75,16 @@ To install the base skin: [!file Download](https://raw.githubusercontent.com/Las
 ==- More coming soon...
 There aren't any other skins I could find. If there is a skin you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
+
+## Uninstalling
+
+If you want to uninstall you will have to:
+
+- Close Steam and SFP fully (from tray menu)
+- Delete the [!badge variant="dark" text="%LOCALAPPDATA%\Steam\htmlcache\Cache\"] folder
+- Launch steam
+
+!!!warning If you want to permanently delete any modifications delete SFP and [!badge variant="dark" text="Steam\steamui\skins"]
+!!!
+!!!danger If you're still paranoid delete the whole [!badge variant="dark" text="Steam\steamui"] folder along with [!badge variant="dark" text="Steam\clientui"] and relaunch steam
+!!!
