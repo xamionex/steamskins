@@ -59,24 +59,24 @@ Follow the guide above if you don't know how
 !!! :gear: This skin features a [!badge target="blank" variant="info" text="site with customizability"](https://chat.lasr.skin/) [!badge target="blank" variant="ghost" text="Source code"](https://github.com/LaserFlash/steam-chat-skin/) :gear:
 !!!
 To install the base skin:
-[!file Download](https://raw.githubusercontent.com/LaserFlash/steam-chat-skin/main/friends.custom.css)
-!!!success After you've downloaded it, copy [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+[!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/LaserFlash/steam-chat-skin/main/friends.custom.css)
+!!!success Save it as [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
 !!!
 ==- Dark Store pages
-[!file Download](https://raw.githubusercontent.com/AikoMidori/steam-dark-mode/master/webkit.css)
-!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+[!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/AikoMidori/steam-dark-mode/master/webkit.css)
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
 !!!
 !!!warning This has yet to be updated for the new steam, check out the beta below, you can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
 !!!
 ==- Beta Dark Store pages
-[!file Download](https://raw.githubusercontent.com/BallOpener/steam-dark-mode/beta2/css/webkit.css)
-!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+[!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/BallOpener/steam-dark-mode/beta2/css/webkit.css)
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
 !!!
-!!!warning This has yet to be updated for the new steam, check out the beta below, you can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
+!!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
 !!!
 ==- Better Store pages in terms of usability
-[!file Download](/assets/css/webkit.css)
-!!!success Copy [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
+[!file RIGHT CLICK this and select Save Link As](/assets/css/webkit.css)
+!!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam/steamui/skins"] or to the folder of your active skin
 !!!
 !!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
