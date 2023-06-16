@@ -16,8 +16,8 @@ Note that this patcher has its own way of patching and requires you to manually 
 
 ### Installing a theme
 
-1. Download a theme [!badge target="blank" variant="info" text="Metro + Fluent"](https://github.com/AikoMidori/SteamSkins/archive/refs/heads/main.zip) [!badge target="blank" variant="ghost" text="Source code"](https://github.com/AikoMidori/SteamSkins)
-2. Extract the zip and open [!badge variant="dark" text="SteamSkins-master"]
+1. Download a theme [!badge target="blank" variant="info" text="Metro"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/) [!badge target="blank" variant="info" text="Fluent"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/) [!badge target="blank" variant="ghost" text="Source code"](https://github.com/AikoMidori/SteamSkins)
+2. Extract the zip and open [!badge variant="dark" text="AikoMidori SteamSkins main"] [!badge variant="info" text="Metro"]/[!badge variant="info" text="Fluent"]
 3. Copy/Cut the 2 folders [!badge variant="dark" text="Metro, Fluent"]
 4. Paste your skin(s) in [!badge variant="dark" text="Steam/steamui/skins"]
    - [x] Find the steam folder using SFP [!badge variant="info" text="Recommended"]
@@ -31,7 +31,7 @@ Note that this patcher has its own way of patching and requires you to manually 
 
 ## Other skins
 
-==- Metro and fluent by Shiina
+==- Metro and Fluent by Shiina
 !!!success Read the guide above for installing this.
 You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
 !!!
