@@ -40,11 +40,11 @@ Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\
 You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
 !!!
 ==- Metro and steam chat by RoseTheFlower
-[!file Chat](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/friends.custom.css)
-[!file Library](https://raw.githubusercontent.com/RoseTheFlower/newsteamchat/master/libraryroot.custom.css)
+[!file Chat](https://raw.githubusercontent.com/RoseTheFlower/MetroSteam/master/friends.custom.css)
+[!file Library](https://raw.githubusercontent.com/RoseTheFlower/MetroSteam/master/libraryroot.custom.css)
 !!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with it in [!badge variant="dark" text="Steam\steamui\skins"].
 !!!
-!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/newsteamchat)
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
 !!!
 ==- Space Theme by SpaceEnergy
 !!!warning This skin was made to be used with Millennium BUT it can also be used with SFP, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
