@@ -41,9 +41,7 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 !!!
 ==- Metro and steam chat by RoseTheFlower
 [!file Download](https://github.com/RoseTheFlower/MetroSteam/archive/refs/heads/master.zip)
-!!!success Copy [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with it in [!badge variant="dark" text="Steam\steamui\skins"]
-!!!
-!!!success Copy [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with it in [!badge variant="dark" text="Steam\steamui\skins"]
+!!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with it in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
 !!!
