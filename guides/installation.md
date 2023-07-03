@@ -40,8 +40,8 @@ Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\
 You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
 !!!
 ==- Metro and steam chat by RoseTheFlower
-[!file Download](https://github.com/RoseTheFlower/MetroSteam/archive/refs/heads/master.zip)
-!!!success Copy [!badge variant="dark" text="friends.custom.css"] and [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with it in [!badge variant="dark" text="Steam\steamui\skins"]
+[!ref icon="download" target="blank" text="Download"](https://github.com/RoseTheFlower/MetroSteam/archive/refs/heads/master.zip)
+!!!success Extract and Copy [!badge variant="dark" text="friends.custom.css"], [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with them in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
 !!!
