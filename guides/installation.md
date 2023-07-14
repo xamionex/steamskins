@@ -17,6 +17,7 @@ Note that this patcher has its own way of patching and requires you to manually 
 ### Installing a theme
 
 1. Download a theme [!badge target="blank" variant="info" text="Metro"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/) [!badge target="blank" variant="info" text="Fluent"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/) [!badge target="blank" variant="ghost" text="Source code"](https://github.com/AikoMidori/SteamSkins)
+   - You can [!badge variant="info" text="preview themes here"](#previews)
 2. Extract the zip and open [!badge variant="dark" text="AikoMidori SteamSkins main"] [!badge variant="info" text="Metro"]/[!badge variant="info" text="Fluent"]
 3. Copy/Cut the 2 folders [!badge variant="dark" text="Metro, Fluent"]
 4. Paste your skin(s)
@@ -46,11 +47,34 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
 !!!
 ==- Space Theme by SpaceEnergy
+[!ref icon="download" target="blank" text="Download"](https://github.com/SpaceEnergy/SpaceTheme-Steam/releases/latest/download/SpaceTheme.zip)
+!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui"]
+!!!
 !!!warning This skin was made to be used with Millennium BUT it can also be used with SFP, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
 To install this skin with Millennium, you can follow the [!badge target="blank" variant="info" text="guide provided by the author"](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SpaceEnergy/SpaceTheme-Steam)
 !!!
+==- 2013 inspired steam library by naii_
+[!ref icon="download" target="blank" text="Download"](https://gamebanana.com/mods/download/305429)
+!!!success Extract and Copy [!badge variant="dark" text="friends.custom.css"], [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with them in [!badge variant="dark" text="Steam\steamui\skins"]
+!!!
+!!! You can see the skin [!badge target="blank" variant="dark" text="page here"](https://gamebanana.com/mods/305429)
+!!!
+==- Zehn by yurisuika
+[!ref icon="download" target="blank" text="Download"](https://github.com/yurisuika/Zehn/archive/refs/heads/master.zip)
+!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui"]
+!!!
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/yurisuika/Zehn)
+!!!
+==- Knowledges SteamLib by Potato95
+[!ref icon="download" target="blank" text="Download"](https://github.com/Potato95/Knowledges-SteamLib/archive/refs/heads/master.zip)
+!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui"]
+!!!
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
+!!!
+==- More coming soon...
+There aren't any other skins I could find. If there is a skin you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
 
 ## Addons for your already existing skins
@@ -58,33 +82,113 @@ To install this skin with Millennium, you can follow the [!badge target="blank" 
 Before continuing this, first install a regular skin like metro or fluent.\
 Follow the guide above if you don't know how
 
-==- Steam Friends Skin
+==- Steam Friends Skin by LaserFlash
 !!! :gear: This skin features a [!badge target="blank" variant="info" text="site with customizability"](https://chat.lasr.skin/) [!badge target="blank" variant="ghost" text="Source code"](https://github.com/LaserFlash/steam-chat-skin/) :gear:
 !!!
 To install the base skin:
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/LaserFlash/steam-chat-skin/main/friends.custom.css)
 !!!success Save it as [!badge variant="dark" text="friends.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
-==- Dark Store pages
+==- Dark Store pages by Shiina
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/AikoMidori/steam-dark-mode/master/webkit.css)
+[!file BETA: RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/AikoMidori/steam-dark-mode/beta/build/css/webkit.css)
 !!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
-!!!warning This has yet to be updated for the new steam, check out the beta below, you can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
+!!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode) [!badge target="blank" variant="dark" text="or beta source code here"](https://github.com/AikoMidori/steam-dark-mode/tree/beta)
 !!!
-==- Beta Dark Store pages
+==- Beta Dark Store pages by BallOpener
 [!file RIGHT CLICK this and select Save Link As](https://raw.githubusercontent.com/BallOpener/steam-dark-mode/beta2/css/webkit.css)
 !!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 !!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
 !!!
-==- Better Store pages in terms of usability
+==- Better Store pages in terms of usability by RedSigma (OLD)
 [!file RIGHT CLICK this and select Save Link As](/assets/css/webkit.css)
 !!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
 !!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
 ==- More coming soon...
-There aren't any other skins I could find. If there is a skin you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
+There aren't any other addons I could find. If there is a addon you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
+==-
+
+## Previews
+
+If you want to look at how some of the skins would look if you installed them this is it.
+
+### Skin Previews
+
+==- Metro by Shiina
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/shiinametro/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/shiinametro/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/shiinametro/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/shiinametro/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/shiinametro/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/shiinametro/chatbox.png)
+==- Fluent by Shiina
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/shiinafluent/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/shiinafluent/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/shiinafluent/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/shiinafluent/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/shiinafluent/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/shiinafluent/chatbox.png)
+==- Metro by RoseTheFlower
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/rosemetro/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/rosemetro/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/rosemetro/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/rosemetro/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/rosemetro/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/rosemetro/chatbox.png)
+==- SpaceTheme by SpaceEnergy
+Note: Includes custom font
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/spacetheme/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/spacetheme/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/spacetheme/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/spacetheme/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/spacetheme/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/spacetheme/chatbox.png)
+==- 2013 inspired steam library by naii_
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/2013/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/2013/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/2013/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/2013/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/2013/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/2013/chatbox.png)
+==- Zehn by yurisuika
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/zehn/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/zehn/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/zehn/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/zehn/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/zehn/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/zehn/chatbox.png)
+==- Knowledges-SteamLib by Potato95
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/Knowledges/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/Knowledges/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/Knowledges/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/Knowledges/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/Knowledges/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/Knowledges/chatbox.png)
+==-
+
+### Addon Previews
+
+==- Steam Friends Skin by LaserFlash
+!!!warning The developer of this addon has a better preview page, [!badge target="blank" variant="info" text="look here"](https://chat.lasr.skin/)
+![LaserFlash previews](/assets/images/addons/laserflash/friends.png)
+!!!
+==- Dark Store pages by Shiina
+[!embed text="Non-beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/shiina/store.png)
+[!embed text="Non-beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/shiina/storepage.png)
+[!embed text="Beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/shiina/storebeta.png)
+[!embed text="Beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/shiina/storebetapage.png)
+==- Beta Dark Store pages by BallOpener
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/ballopener/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/ballopener/storepage.png)
+==- Better Store pages in terms of usability by RedSigma (OLD)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/redsigma/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/redsigma/storepage.png)
+==- More coming soon...
+There aren't any other addons I could find. If there is a addon you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
 
 ## Uninstalling
