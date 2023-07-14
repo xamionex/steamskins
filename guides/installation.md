@@ -162,12 +162,12 @@ Note: Includes custom font
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/zehn/friends.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/zehn/chatbox.png)
 ==- Knowledges-SteamLib by Potato95
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/Knowledges/library.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/Knowledges/game.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/Knowledges/store.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/Knowledges/overlay.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/Knowledges/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/Knowledges/chatbox.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/knowledges/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/knowledges/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/knowledges/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/knowledges/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/knowledges/friends.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/knowledges/chatbox.png)
 ==-
 
 ### Addon Previews

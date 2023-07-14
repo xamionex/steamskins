@@ -18,8 +18,8 @@
 			body {
 				font-family: Helvetica, sans-serif;
 				width: 100%;
-				/* min-height: 100vh; */
-				padding-top: 2rem;
+				min-height: 100vh;
+				/* padding-top: 2rem; */
 				display: flex;
 				align-items: center;
 				justify-content: center;
@@ -117,6 +117,9 @@
 			@media (max-width: 768px) {
 				:root {
 					--image-comparison-slider-width: 90vw;
+				}
+				#image-comparison-slider img {
+					max-height: 90vh;
 				}
 			}
 		</style>
