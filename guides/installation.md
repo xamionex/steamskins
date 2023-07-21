@@ -22,7 +22,7 @@ Note that this patcher has its own way of patching and requires you to manually 
 1. Download a theme
    - You can [!badge variant="info" text="download skins here"](#skins)
    - You can [!badge variant="info" text="preview skins here"](#previews)
-2. Extract the zip and Copy/Cut the [!badge variant="dark" text="\<Skin Name\>"] folder (the folder might sometimes have -main -root or a version after the name)
+2. Extract the zip and Copy/Cut the [!badge variant="dark" text="\<Skin Name\>"] folder (the folder might sometimes have -main -master or a version after the name)
 3. Paste your skin(s)
    - [x] Find the steam folder using SFP [!badge variant="info" text="Recommended"]
      - Open SFP, click the [!badge variant="dark" text="Open Files"] button (bottom right), and then click [!badge variant="dark" text="skins"]/[!badge variant="dark" text="steamui"]
