@@ -10,7 +10,8 @@ order: 100
 !!! Download the [!badge target="blank" variant="info" text="latest SFP release"](https://github.com/PhantomGamers/SFP/releases)
 [!badge target="blank" variant="info" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-win10-x64-SelfContained.zip) [!badge target="blank" variant="info" text="Linux"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-linux-x64-SelfContained.tar.gz) [!badge target="blank" variant="info" text="Mac"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-osx-x64-SelfContained.tar.gz) [!badge text="Recommended"]
 !!!
-!!! Or download the [!badge target="blank" variant="info" text="latest CSSLoader release"](https://docs.deckthemes.com/CSSLoader/Install/)
+!!!dark In case you want to use the CSSLoader, download it for [!badge target="blank" variant="dark" text="Windows"](https://docs.deckthemes.com/CSSLoader/Install/#windows) [!badge target="blank" variant="dark" text="Linux"](https://docs.deckthemes.com/CSSLoader/Install/#linux)
+Note that this patcher has its own way of patching and you should read its documentation linked above
 !!!
 !!!dark In case you want to use the Millennium patcher, download it for [!badge target="blank" variant="dark" text="Windows"](https://github.com/ShadowMonster99/millennium-steam-patcher/releases/latest/download/millennium.exe)
 Note that this patcher has its own way of patching and requires you to manually add css, [!badge target="blank" variant="dark" text="read more at its source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
@@ -18,28 +19,35 @@ Note that this patcher has its own way of patching and requires you to manually 
 
 ### Installing a theme
 
-1. Download a theme [!badge target="blank" variant="info" text="Metro"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/) [!badge target="blank" variant="info" text="Fluent"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/) [!badge target="blank" variant="ghost" text="Source code"](https://github.com/AikoMidori/SteamSkins)
-   - You can [!badge variant="info" text="preview themes here"](#previews)
-2. Extract the zip and open [!badge variant="dark" text="AikoMidori SteamSkins main"] [!badge variant="info" text="Metro"]/[!badge variant="info" text="Fluent"]
-3. Copy/Cut the 2 folders [!badge variant="dark" text="Metro, Fluent"]
-4. Paste your skin(s)
+1. Download a theme
+   - You can [!badge variant="info" text="download skins here"](#skins)
+   - You can [!badge variant="info" text="preview skins here"](#previews)
+2. Extract the zip and Copy/Cut the [!badge variant="dark" text="\<Skin Name\>"] folder (the folder might sometimes have -main -root or a version after the name)
+3. Paste your skin(s)
    - [x] Find the steam folder using SFP [!badge variant="info" text="Recommended"]
-     - Open SFP, press the [!badge variant="dark" text="Open Files"] button, and then press [!badge variant="dark" text="skins"]
+     - Open SFP, click the [!badge variant="dark" text="Open Files"] button (bottom right), and then click [!badge variant="dark" text="skins"]/[!badge variant="dark" text="steamui"]
+     - If the [!badge variant="dark" text="skins"] folder doesn't exist create it
    - [ ] or find the steam folder manually
      - Locate wherever steam is installed yourself (default is [!badge variant="dark" text="C:\Program Files (x86)\Steam"])
-     - If the [!badge variant="dark" text="skins"] folder doesn't exist
-5. Open SFP and open the Settings :icon-gear: at the bottom left
-6. Scroll down and at Steam Skin choose either Fluent or Metro
-7. Done.
+     - If the [!badge variant="dark" text="skins"] folder doesn't exist create it
+4. Open SFP and open the Settings :icon-gear: at the bottom left
+5. Scroll down and at Steam Skin choose either Fluent or Metro
+6. Done.
 
 !!! If you're using Metro and want to use its JS
 Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
 !!!
 
-## Other skins
+## Skins
 
-==- Metro and Fluent by Shiina
-!!!success Read the guide above for installing this.
+==- Fluent by Shiina
+[!ref icon="download" target="blank" text="Download"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/)
+!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
+You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
+!!!
+==- Metro by Shiina
+[!ref icon="download" target="blank" text="Download"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/)
+!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
 You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
 !!!
 ==- Metro and steam chat by RoseTheFlower
