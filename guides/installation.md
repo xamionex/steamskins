@@ -31,12 +31,8 @@ Note that this patcher has its own way of patching and requires you to manually 
      - Locate wherever steam is installed yourself (default is [!badge variant="dark" text="C:\Program Files (x86)\Steam"])
      - If the [!badge variant="dark" text="skins"] folder doesn't exist create it
 4. Open SFP and open the Settings :icon-gear: at the bottom left
-5. Scroll down and at Steam Skin choose either Fluent or Metro
+5. Scroll down and at Steam Skin choose your skin
 6. Done.
-
-!!! If you're using Metro and want to use its JS
-Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
-!!!
 
 ## Skins
 
@@ -49,6 +45,9 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 [!ref icon="download" target="blank" text="Download"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/)
 !!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
 You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
+!!!
+!!! If you want to use this skins JS
+Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
 !!!
 ==- Metro and steam chat by RoseTheFlower
 [!ref icon="download" target="blank" text="Download"](https://github.com/RoseTheFlower/MetroSteam/archive/refs/heads/master.zip)
