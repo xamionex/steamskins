@@ -10,7 +10,7 @@ order: 100
 !!! Download the [!badge target="blank" variant="info" text="latest SFP release"](https://github.com/PhantomGamers/SFP/releases)
 [!badge target="blank" variant="info" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-win10-x64-SelfContained.zip) [!badge target="blank" variant="info" text="Linux"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-linux-x64-SelfContained.tar.gz) [!badge target="blank" variant="info" text="Mac"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-osx-x64-SelfContained.tar.gz) [!badge text="Recommended"]
 !!!
-!!! Or download the [!badge target="blank" variant="info" text="latest CSSLoader release"](https://docs.deckthemes.com/CSSLoader/Install/) [!badge target="blank" variant="info" text="Windows"](https://docs.deckthemes.com/CSSLoader/Install/#windows)
+!!! Or download the [!badge target="blank" variant="info" text="latest CSSLoader release"](https://docs.deckthemes.com/CSSLoader/Install/)
 !!!
 !!!dark In case you want to use the Millennium patcher, download it for [!badge target="blank" variant="dark" text="Windows"](https://github.com/ShadowMonster99/millennium-steam-patcher/releases/latest/download/millennium.exe)
 Note that this patcher has its own way of patching and requires you to manually add css, [!badge target="blank" variant="dark" text="read more at its source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
@@ -52,7 +52,7 @@ You can see the skin [!badge target="blank" variant="dark" text="source code her
 [!ref icon="download" target="blank" text="Download"](https://github.com/SaiyajinK/Minimal-Dark-for-Steam/archive/refs/heads/master.zip)
 !!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
-!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SaiyajinK/Minimal-Dark-for-Steam)
 !!!
 ==- Space Theme by SpaceEnergy
 [!ref icon="download" target="blank" text="Download"](https://github.com/SpaceEnergy/SpaceTheme-Steam/releases/latest/download/SpaceTheme.zip)
