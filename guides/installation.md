@@ -39,12 +39,12 @@ Note that this patcher has its own way of patching and requires you to manually 
 ==- Fluent by Shiina
 [!ref icon="download" target="blank" text="Download"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/)
 !!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
-You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
+You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/SteamSkins)
 !!!
 ==- Metro by Shiina
 [!ref icon="download" target="blank" text="Download"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/)
 !!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
-You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/steam-dark-mode)
+You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/SteamSkins)
 !!!
 !!! If you want to use this skins JS
 Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
