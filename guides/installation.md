@@ -123,6 +123,12 @@ To install the base skin:
 !!!
 !!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
+==- UNFINISHED: Fluenty by Hexality
+This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/Hexality/Fluenty)
+More information will be added when the skin is finished, currently visit the source code and find out how to install it.
+==- UNFINISHED: steam-win95-skin
+This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/2641a40fd44383320adde4b027a1d0b03bd550/steam-win95-skin)
+More information will be added when the skin is finished, currently visit the source code and find out how to install it.
 ==- More coming soon...
 There aren't any other addons I could find. If there is a addon you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
@@ -139,28 +145,24 @@ If you want to look at how some of the skins would look if you installed them th
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/shiinametro/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/shiinametro/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/shiinametro/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/shiinametro/chatbox.png)
 ==- Fluent by Shiina
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/shiinafluent/library.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/shiinafluent/game.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/shiinafluent/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/shiinafluent/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/shiinafluent/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/shiinafluent/chatbox.png)
 ==- Metro by RoseTheFlower
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/rosemetro/library.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/rosemetro/game.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/rosemetro/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/rosemetro/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/rosemetro/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/rosemetro/chatbox.png)
 ==- Minimal Dark for Steam by SaiyajinK
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/minimaldark/library.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/minimaldark/game.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/minimaldark/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/minimaldark/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/minimaldark/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/minimaldark/chatbox.png)
 ==- SpaceTheme by SpaceEnergy
 Note: Includes custom font
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/spacetheme/library.png)
@@ -168,28 +170,24 @@ Note: Includes custom font
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/spacetheme/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/spacetheme/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/spacetheme/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/spacetheme/chatbox.png)
 ==- 2013 inspired steam library by naii_
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/2013/library.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/2013/game.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/2013/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/2013/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/2013/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/2013/chatbox.png)
 ==- Zehn by yurisuika
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/zehn/library.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/zehn/game.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/zehn/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/zehn/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/zehn/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/zehn/chatbox.png)
 ==- Knowledges-SteamLib by Potato95
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/knowledges/library.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/knowledges/game.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/knowledges/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/knowledges/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/knowledges/friends.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/chatbox.png&n=/assets/images/skins/knowledges/chatbox.png)
 ==-
 
 ### Addon Previews
@@ -199,16 +197,16 @@ Note: Includes custom font
 ![LaserFlash previews](/assets/images/addons/laserflash/friends.png)
 !!!
 ==- Dark Store pages by Shiina
-[!embed text="Non-beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/shiina/store.png)
-[!embed text="Non-beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/shiina/storepage.png)
-[!embed text="Beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/shiina/storebeta.png)
-[!embed text="Beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/shiina/storebetapage.png)
+[!embed text="Non-beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/shiina/store.png)
+[!embed text="Non-beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/shiina/storepage.png)
+[!embed text="Beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/shiina/storebeta.png)
+[!embed text="Beta"](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/shiina/storebetapage.png)
 ==- Beta Dark Store pages by BallOpener
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/ballopener/store.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/ballopener/storepage.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/ballopener/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/ballopener/storepage.png)
 ==- Better Store pages in terms of usability by RedSigma (OLD)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_store.png&n=/assets/images/addons/redsigma/store.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/_storepage.png&n=/assets/images/addons/redsigma/storepage.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/redsigma/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/redsigma/storepage.png)
 ==- More coming soon...
 There aren't any other addons I could find. If there is a addon you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
