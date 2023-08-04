@@ -16,7 +16,6 @@ Some of these contributors can be seen here:
 [!ref target="blank" icon="heart" text="AikoMidori/steam-library"](https://github.com/AikoMidori/steam-library/graphs/contributors)
 [!ref target="blank" icon="heart" text="AikoMidori/steam-dark-mode"](https://github.com/AikoMidori/steam-dark-mode/graphs/contributors)
 [!ref target="blank" icon="heart" text="RoseTheFlower/MetroSteam"](https://github.com/RoseTheFlower/MetroSteam/graphs/contributors)
-[!ref target="blank" icon="heart" text="SaiyajinK/Minimal-Dark-for-Steam"](https://github.com/SaiyajinK/Minimal-Dark-for-Steam/graphs/contributors)
 [!ref target="blank" icon="heart" text="BallOpener/steam-dark-mode"](https://github.com/BallOpener/steam-dark-mode/graphs/contributors)
 [!ref target="blank" icon="heart" text="LaserFlash/steam-chat-skin"](https://github.com/LaserFlash/steam-chat-skin/graphs/contributors)
 [!ref target="blank" icon="heart" text="ShadowMonster99/millennium-steam-patcher"](https://github.com/ShadowMonster99/millennium-steam-patcher/graphs/contributors)
