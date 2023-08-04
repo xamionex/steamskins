@@ -55,12 +55,6 @@ Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
 !!!
-==- Minimal Dark for Steam by SaiyajinK
-[!ref icon="download" target="blank" text="Download"](https://github.com/SaiyajinK/Minimal-Dark-for-Steam/archive/refs/heads/master.zip)
-!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
-!!!
-!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SaiyajinK/Minimal-Dark-for-Steam)
-!!!
 ==- Space Theme by SpaceEnergy
 [!ref icon="download" target="blank" text="Download"](https://github.com/SpaceEnergy/SpaceTheme-Steam/releases/latest/download/SpaceTheme.zip)
 !!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
@@ -157,12 +151,6 @@ If you want to look at how some of the skins would look if you installed them th
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/rosemetro/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/rosemetro/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/rosemetro/friends.png)
-==- Minimal Dark for Steam by SaiyajinK
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/minimaldark/library.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/minimaldark/game.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/minimaldark/store.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/minimaldark/overlay.png)
-[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/minimaldark/friends.png)
 ==- SpaceTheme by SpaceEnergy
 Note: Includes custom font
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/spacetheme/library.png)
