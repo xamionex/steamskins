@@ -15,6 +15,14 @@ links:
   - text: Home
     link: /README.md
     icon: home
+  - text: Change Request
+    link: https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=
+    target: _blank
+    icon: pencil
+  - text: Source Code
+    link: https://github.com/xamionex/steamskins
+    target: _blank
+    icon: mark-github
 
 footer:
   copyright: © Copyright {{ year }} - [Retype](https://retype.com/) - All rights reserved
@@ -25,3 +33,7 @@ footer:
     - text: License
       link: LICENSE.md
       icon: shield-check
+    - text: Source Code
+      link: https://github.com/xamionex/steamskins
+      target: _blank
+      icon: mark-github

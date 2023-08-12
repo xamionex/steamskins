@@ -16,3 +16,4 @@ Configure any steam skin you installed
 [!ref icon=":question:"](/faq.md)
 [!ref icon=":exclamation:"](/license.md)
 [!ref icon=":heart:"](/credits.md)
+[!ref target="blank" icon="mark-github" text="Source Code"](https://github.com/xamionex/steamskins)
