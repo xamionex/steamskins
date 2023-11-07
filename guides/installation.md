@@ -87,6 +87,12 @@ To install this skin with Millennium, you can follow the [!badge target="blank" 
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/tkashkin/Adwaita-for-Steam)
 !!!
+==- UNFINISHED: Fluenty by Hexality
+This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/Hexality/Fluenty)
+More information will be added when the skin is finished, currently visit the source code and find out how to install it.
+==- UNFINISHED: steam-win95-skin
+This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/2641a40fd44383320adde4b027a1d0b03bd550/steam-win95-skin)
+More information will be added when the skin is finished, currently visit the source code and find out how to install it.
 ==- More coming soon...
 There aren't any other skins I could find. If there is a skin you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
@@ -122,12 +128,6 @@ To install the base skin:
 !!!
 !!!primary You can [!badge target="blank" variant="dark" text="see customizable variables for this skin here"](/assets/css/store.css)
 !!!
-==- UNFINISHED: Fluenty by Hexality
-This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/Hexality/Fluenty)
-More information will be added when the skin is finished, currently visit the source code and find out how to install it.
-==- UNFINISHED: steam-win95-skin
-This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/2641a40fd44383320adde4b027a1d0b03bd550/steam-win95-skin)
-More information will be added when the skin is finished, currently visit the source code and find out how to install it.
 ==- More coming soon...
 There aren't any other addons I could find. If there is a addon you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
