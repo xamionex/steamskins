@@ -82,6 +82,11 @@ To install this skin with Millennium, you can follow the [!badge target="blank" 
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
 !!!
+==- Adwaita for Steam by tkashkin
+!!!warning This skin was made for [!badge target="blank" variant="dark" text="Linux"](https://github.com/tkashkin/Adwaita-for-Steam#installation) but it supports [!badge target="blank" variant="dark" text="Windows"](https://docs.deckthemes.com/CSSLoader/Install/#windows) as well.
+!!!
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/tkashkin/Adwaita-for-Steam)
+!!!
 ==- More coming soon...
 There aren't any other skins I could find. If there is a skin you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
 ==-
@@ -176,6 +181,9 @@ Note: Includes custom font
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/knowledges/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/knowledges/overlay.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/knowledges/friends.png)
+==- Adwaita for Steam by tkashkin
+!!!success Previews for this skin can be [!badge target="blank" variant="dark" text="viewed here"](https://github.com/tkashkin/Adwaita-for-Steam#previews) (expand previews at the top).
+!!!
 ==-
 
 ### Addon Previews
