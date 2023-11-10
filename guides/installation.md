@@ -35,32 +35,35 @@ Note that this patcher has its own way of patching and requires you to manually 
 6. Done.
 
 ## Skins
+-- These are too much for me so uh feel free to edit some.
 
 ==- Fluent by Shiina
 [Download](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/)
 !!!success Extract and Copy the folder to [Steam\steamui\skins]
 You can see the skin [source code here](https://github.com/AikoMidori/SteamSkins)
 !!!
+
 ==- Metro by Shiina
 [Download](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/)
 !!!success Extract and Copy the folder to [Steam\steamui\skins"]
 You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/SteamSkins)
 !!!
 !!! If you want to use this skins JS
-Move the contents of the [Steam\steamui\skins\Metro\Metro-JS] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
+Move the contents of the [Steam\steamui\skins\Metro\Metro-JS] folder to the main skin folder (aka. ([Steam\steamui\skins\Metro)] and overwrite existing files
+
 !!!
 ==- Metro and steam chat by RoseTheFlower
-[!ref icon="download" target="blank" text="Download"](https://github.com/RoseTheFlower/MetroSteam/archive/refs/heads/master.zip)
-!!!success Extract and Copy [!badge variant="dark" text="friends.custom.css"], [!badge variant="dark" text="libraryroot.custom.css"] to [!badge variant="dark" text="Steam\steamui"] or make a new folder with them in [!badge variant="dark" text="Steam\steamui\skins"]
+[Download](https://github.com/RoseTheFlower/MetroSteam/archive/refs/heads/master.zip)
+!!!success Extract and Copy [friends.custom.css], [libraryroot.custom.css] to [Steam\steamui] or make a new folder with them in [Steam\steamui\skins]
 !!!
-!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
+!!! You can see the skin [source code here](https://github.com/RoseTheFlower/MetroSteam)
 !!!
 ==- Space Theme by SpaceEnergy
-[!ref icon="download" target="blank" text="Download"](https://github.com/SpaceEnergy/SpaceTheme-Steam/releases/latest/download/SpaceTheme.zip)
-!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
+[Download]](https://github.com/SpaceEnergy/SpaceTheme-Steam/releases/latest/download/SpaceTheme.zip)
+!!!success Extract and Copy the folder to [Steam\steamui\skins]
 !!!
 !!!warning This skin was made to be used with Millennium BUT it can also be used with SFP, download it at the [!badge variant="dark" text="top of this page"](/guides/installation.md#pre-requisites)
-To install this skin with Millennium, you can follow the [!badge target="blank" variant="info" text="guide provided by the author"](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
+To install this skin with Millennium, you can follow the [the guide provided by the author](https://github.com/SpaceEnergy/SpaceTheme-Steam#installation)
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/SpaceEnergy/SpaceTheme-Steam)
 !!!
@@ -212,10 +215,10 @@ There aren't any other addons I could find. If there is a addon you would like a
 If you want to uninstall you will have to:
 
 - Close Steam and SFP fully (from tray menu)
-- Delete the [!badge variant="dark" text="%LOCALAPPDATA%\Steam\htmlcache\Cache\"] folder
+- Delete the [%LOCALAPPDATA%\Steam\htmlcache\Cache\] folder
 - Launch steam
 
-!!!warning If you want to permanently delete any modifications delete SFP and [!badge variant="dark" text="Steam\steamui\skins"]
+!!!warning If you want to permanently delete any modifications delete SFP and ["Steam\steamui\skins]
 !!!
-!!!danger If you're still paranoid delete the whole [!badge variant="dark" text="Steam\steamui"] folder along with [!badge variant="dark" text="Steam\clientui"] and relaunch steam
+!!!danger If you're still paranoid delete the whole [Steam\steamui] folder along with [Steam\clientui] and relaunch Steam
 !!!
