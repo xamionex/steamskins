@@ -3,33 +3,33 @@ icon: rocket
 label: Installation
 order: 100
 ---
-# How to install skins after the new steam update
+# How to install skins after the new SteamUI update
 
 ## Pre-requisites
 
-!!! Download the [!badge target="blank" variant="info" text="latest SFP release"](https://github.com/PhantomGamers/SFP/releases)
-[!badge target="blank" variant="info" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-win10-x64-SelfContained.zip) [!badge target="blank" variant="info" text="Linux"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-linux-x64-SelfContained.tar.gz) [!badge target="blank" variant="info" text="Mac"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-osx-x64-SelfContained.tar.gz) [!badge text="Recommended"]
+!!! Download the [latest SFP release](https://github.com/PhantomGamers/SFP/releases)
+[Windows](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-win10-x64-SelfContained.zip) [Linux](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-linux-x64-SelfContained.tar.gz) [OSX](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-osx-x64-SelfContained.tar.gz)
 !!!
-!!!dark In case you want to use the CSSLoader, download it for [!badge target="blank" variant="dark" text="Windows"](https://docs.deckthemes.com/CSSLoader/Install/#windows) [!badge target="blank" variant="dark" text="Linux"](https://docs.deckthemes.com/CSSLoader/Install/#linux)
+!!!dark In case you want to use the CSSLoader, download it for [Windows](https://docs.deckthemes.com/CSSLoader/Install/#windows) [Linux](https://docs.deckthemes.com/CSSLoader/Install/#linux)
 Note that this patcher has its own way of patching and you should read its documentation linked above
 !!!
-!!!dark In case you want to use the Millennium patcher, download it for [!badge target="blank" variant="dark" text="Windows"](https://github.com/ShadowMonster99/millennium-steam-patcher/releases/latest/download/millennium.exe)
-Note that this patcher has its own way of patching and requires you to manually add css, [!badge target="blank" variant="dark" text="read more at its source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
+!!!dark In case you want to use the Millennium patcher, download it for [Windows](https://github.com/ShadowMonster99/millennium-steam-patcher/releases/latest/download/millennium.exe)
+Note that this patcher has its own way of patching and requires you to manually add css, [read more at it's source](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
 !!!
 
 ### Installing a theme
 
 1. Download a theme
-   - You can [!badge variant="info" text="download skins here"](#skins)
-   - You can [!badge variant="info" text="preview skins here"](#previews)
-2. Extract the zip and Copy/Cut the [!badge variant="dark" text="\<Skin Name\>"] folder (the folder might sometimes have -main -master or a version after the name)
+   - You can [download skins here](#skins)
+   - You can [preview skins here](#previews)
+2. Extract the zip and Copy/Cut the [SkinName] folder (the folder might sometimes have -main -master or a version after the name)
 3. Paste your skin(s)
-   - [x] Find the steam folder using SFP [!badge variant="info" text="Recommended"]
-     - Open SFP, click the [!badge variant="dark" text="Open Files"] button (bottom right), and then click [!badge variant="dark" text="skins"]/[!badge variant="dark" text="steamui"]
-     - If the [!badge variant="dark" text="skins"] folder doesn't exist create it
+   - [x] Find the steam folder using SFP [Recommended]
+     - Open SFP, click the [Open Files] button (bottom right), and then click [!badge variant="dark" text="skins"]/[!badge variant="dark" text="steamui"]
+     - If the [skins] folder doesn't exist create it
    - [ ] or find the steam folder manually
-     - Locate wherever steam is installed yourself (default is [!badge variant="dark" text="C:\Program Files (x86)\Steam"])
-     - If the [!badge variant="dark" text="skins"] folder doesn't exist create it
+     - Locate wherever Steam is installed yourself (default is [C:\Program Files (x86)\Steam"])
+     - If the skins folder doesn't exist create it
 4. Open SFP and open the Settings :icon-gear: at the bottom left
 5. Scroll down and at Steam Skin choose your skin
 6. Done.
@@ -37,17 +37,17 @@ Note that this patcher has its own way of patching and requires you to manually 
 ## Skins
 
 ==- Fluent by Shiina
-[!ref icon="download" target="blank" text="Download"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/)
-!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
-You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/SteamSkins)
+[Download](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Fluent/)
+!!!success Extract and Copy the folder to [Steam\steamui\skins]
+You can see the skin [source code here](https://github.com/AikoMidori/SteamSkins)
 !!!
 ==- Metro by Shiina
-[!ref icon="download" target="blank" text="Download"](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/)
-!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
+[Download](https://download-directory.github.io/?url=https://github.com/AikoMidori/SteamSkins/tree/main/Metro/)
+!!!success Extract and Copy the folder to [Steam\steamui\skins"]
 You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/AikoMidori/SteamSkins)
 !!!
 !!! If you want to use this skins JS
-Move the contents of the [!badge variant="dark" text="Steam\steamui\skins\Metro\Metro-JS"] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
+Move the contents of the [Steam\steamui\skins\Metro\Metro-JS] folder to the main skin folder (aka. [!badge variant="dark" text="Steam\steamui\skins\Metro"]) and overwrite existing files
 !!!
 ==- Metro and steam chat by RoseTheFlower
 [!ref icon="download" target="blank" text="Download"](https://github.com/RoseTheFlower/MetroSteam/archive/refs/heads/master.zip)
