@@ -6,7 +6,7 @@ order: 50
 # How to customize any skin that you install
 
 !!!
-Most skins *should* have an import for config.css from the relative folder, that being said you should always check if it really has it. For example [!badge target="blank" variant="dark" text="Fluent"](https://github.com/AikoMidori/SteamSkins/) and [!badge target="blank" variant="dark" text="Metro"](https://github.com/AikoMidori/SteamSkins/) both have them.
+Most skins *should* have an import for config.css from the relative folder, that being said you should always check if it really has it. For example [Fluent](https://github.com/AikoMidori/SteamSkins/) and [Metro](https://github.com/AikoMidori/SteamSkins/) both have them.
 !!!
 To check if your skin has it or doesn't check if it has this inside the [!badge target="blank" variant="dark" text="library.custom.css"] file:
 
