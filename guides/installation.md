@@ -80,7 +80,7 @@ To install this skin with Millennium, you can follow the [!badge target="blank" 
 [!ref icon="download" target="blank" text="Download"](https://github.com/Potato95/Knowledges-SteamLib/archive/refs/heads/master.zip)
 !!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
 !!!
-!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/RoseTheFlower/MetroSteam)
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/Potato95/Knowledges-SteamLib)
 !!!
 ==- Adwaita for Steam by tkashkin
 !!!warning This skin was made for [!badge target="blank" variant="dark" text="Linux"](https://github.com/tkashkin/Adwaita-for-Steam#installation) but it supports [!badge target="blank" variant="dark" text="Windows"](https://docs.deckthemes.com/CSSLoader/Install/#windows) as well.
