@@ -10,11 +10,11 @@ order: 100
 !!! Download the [!badge target="blank" variant="info" text="latest SFP release"](https://github.com/PhantomGamers/SFP/releases)
 [!badge target="blank" variant="info" text="Windows"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-win10-x64-SelfContained.zip) [!badge target="blank" variant="info" text="Linux"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-linux-x64-SelfContained.tar.gz) [!badge target="blank" variant="info" text="Mac"](https://github.com/PhantomGamers/SFP/releases/latest/download/SFP_UI-osx-x64-SelfContained.tar.gz) [!badge text="Recommended"]
 !!!
+!!! Or download Millennium!, download it for [!badge target="blank" variant="info" text="Windows"](https://github.com/ShadowMonster99/millennium-steam-patcher/releases/latest)
+Millennium and SFP share many similarities and are fully forward compatible! The main difference is that Millennium doesn't run in a standalone process, but is limited to Windows only. [!badge target="blank" variant="dark" text="read more at its source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
+!!!
 !!!dark In case you want to use the CSSLoader, download it for [!badge target="blank" variant="dark" text="Windows"](https://docs.deckthemes.com/CSSLoader/Install/#windows) [!badge target="blank" variant="dark" text="Linux"](https://docs.deckthemes.com/CSSLoader/Install/#linux)
 Note that this patcher has its own way of patching and you should read its documentation linked above
-!!!
-!!!dark In case you want to use the Millennium patcher, download it for [!badge target="blank" variant="dark" text="Windows"](https://github.com/ShadowMonster99/millennium-steam-patcher/releases/latest/download/millennium.exe)
-Note that this patcher has its own way of patching and requires you to manually add css, [!badge target="blank" variant="dark" text="read more at its source"](https://github.com/ShadowMonster99/millennium-steam-patcher/#readme)
 !!!
 
 ### Installing a theme
