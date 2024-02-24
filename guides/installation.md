@@ -124,6 +124,7 @@ To install the base skin:
 !!!
 ==- SteamDB addon by BossSloth
 !!!warning If you want to use this with other skins you should check out [!badge target="blank" variant="info" text="their guide"](https://github.com/tddebart/Steam-SteamDB-addon?tab=readme-ov-file#add-to-existing-skin)
+!!!
 !!! The author of this addon has [!badge target="blank" variant="info" text="install instructions"](https://github.com/tddebart/Steam-SteamDB-addon#installation) on their page.
 !!!
 [!file Download Latest](https://github.com/tddebart/Steam-SteamDB-addon/releases/latest/download/SteamDB-addon.zip)
