@@ -122,6 +122,14 @@ To install the base skin:
 !!!
 !!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
 !!!
+==- SteamDB addon by BossSloth
+!!! :gear: To add to an existing skin see [!badge target="blank" variant="info" text="install instructions"](https://github.com/tddebart/Steam-SteamDB-addon#installation) :gear:
+!!!
+To install the base skin:
+[!file Download zip](https://github.com/tddebart/Steam-SteamDB-addon/releases/latest/download/SteamDB-addon.zip) [!badge target="blank" variant="info" text="install instructions"](https://github.com/tddebart/Steam-SteamDB-addon#installation)
+!!!
+!!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/tddebart/Steam-SteamDB-addon)
+!!!
 ==- Better Store pages in terms of usability by RedSigma (OLD)
 [!file RIGHT CLICK this and select Save Link As](/assets/css/webkit.css)
 !!!success Save it as [!badge variant="dark" text="webkit.css"] to [!badge variant="dark" text="Steam\steamui"] or to the folder of your active skin in [!badge variant="dark" text="Steam\steamui\skins"]
@@ -200,6 +208,8 @@ Note: Includes custom font
 ==- Beta Dark Store pages by BallOpener
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/ballopener/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/ballopener/storepage.png)
+==- SteamDB addon by BossSloth
+!!!success Previews for this addon can be [!badge target="blank" variant="dark" text="viewed here"](https://github.com/tddebart/Steam-SteamDB-addon#creating-a-new-skin)
 ==- Better Store pages in terms of usability by RedSigma (OLD)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/redsigma/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/redsigma/storepage.png)
