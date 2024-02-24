@@ -123,11 +123,10 @@ To install the base skin:
 !!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/BallOpener/steam-dark-mode/tree/beta2)
 !!!
 ==- SteamDB addon by BossSloth
-!!! :gear: To add to an existing skin see [!badge target="blank" variant="info" text="install instructions"](https://github.com/tddebart/Steam-SteamDB-addon#installation) :gear:
+!!!warning If you want to use this with other skins you should check out [!badge target="blank" variant="info" text="their guide"](https://github.com/tddebart/Steam-SteamDB-addon?tab=readme-ov-file#add-to-existing-skin)
+!!! The author of this addon has [!badge target="blank" variant="info" text="install instructions"](https://github.com/tddebart/Steam-SteamDB-addon#installation) on their page.
 !!!
-To install the base skin:
-[!file Download zip](https://github.com/tddebart/Steam-SteamDB-addon/releases/latest/download/SteamDB-addon.zip) [!badge target="blank" variant="info" text="install instructions"](https://github.com/tddebart/Steam-SteamDB-addon#installation)
-!!!
+[!file Download Latest](https://github.com/tddebart/Steam-SteamDB-addon/releases/latest/download/SteamDB-addon.zip)
 !!! You can see the [!badge target="blank" variant="dark" text="source code here"](https://github.com/tddebart/Steam-SteamDB-addon)
 !!!
 ==- Better Store pages in terms of usability by RedSigma (OLD)
@@ -210,6 +209,7 @@ Note: Includes custom font
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/ballopener/storepage.png)
 ==- SteamDB addon by BossSloth
 !!!success Previews for this addon can be [!badge target="blank" variant="dark" text="viewed here"](https://github.com/tddebart/Steam-SteamDB-addon#creating-a-new-skin)
+!!!
 ==- Better Store pages in terms of usability by RedSigma (OLD)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/redsigma/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/redsigma/storepage.png)
