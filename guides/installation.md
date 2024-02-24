@@ -209,8 +209,7 @@ Note: Includes custom font
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/ballopener/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/ballopener/storepage.png)
 ==- SteamDB addon by BossSloth
-!!!success Previews for this addon can be [!badge target="blank" variant="dark" text="viewed here"](https://github.com/tddebart/Steam-SteamDB-addon#creating-a-new-skin)
-!!!
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/steamdb/storepage.png)
 ==- Better Store pages in terms of usability by RedSigma (OLD)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/addons/redsigma/store.png)
 [!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/storepage.png&n=/assets/images/addons/redsigma/storepage.png)
