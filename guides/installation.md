@@ -87,11 +87,14 @@ To install this skin with Millennium, you can follow the [!badge target="blank" 
 !!!
 !!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/tkashkin/Adwaita-for-Steam)
 !!!
+==- Win95 by ricewind012
+[!ref icon="download" target="blank" text="Download"](https://github.com/ricewind012/win95-themes/archive/refs/heads/master.zip)
+!!!success Extract and Copy the folder to [!badge variant="dark" text="Steam\steamui\skins"]
+!!!
+!!! You can see the skin [!badge target="blank" variant="dark" text="source code here"](https://github.com/ricewind012/win95-themes)
+!!!
 ==- UNFINISHED: Fluenty by Hexality
 This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/Hexality/Fluenty)
-More information will be added when the skin is finished, currently visit the source code and find out how to install it.
-==- UNFINISHED: steam-win95-skin
-This skin isn't finished yet, you can visit it's [!badge target="blank" variant="dark" text="source code here"](https://github.com/2641a40fd44383320adde4b027a1d0b03bd550/steam-win95-skin)
 More information will be added when the skin is finished, currently visit the source code and find out how to install it.
 ==- More coming soon...
 There aren't any other skins I could find. If there is a skin you would like added, you can edit this page and add it yourself, or tell me to add it by [!badge target="blank" variant="info" text="creating an issue on github"](https://github.com/xamionex/steamskins/issues/new?assignees=xamionex&labels=documentation&projects=&template=change-request.md&title=)
@@ -192,6 +195,12 @@ Note: Includes custom font
 ==- Adwaita for Steam by tkashkin
 !!!success Previews for this skin can be [!badge target="blank" variant="dark" text="viewed here"](https://github.com/tkashkin/Adwaita-for-Steam#previews) (expand previews at the top).
 !!!
+==- Win95 by ricewind012
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/library.png&n=/assets/images/skins/win95/library.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/game.png&n=/assets/images/skins/win95/game.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/store.png&n=/assets/images/skins/win95/store.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/overlay.png&n=/assets/images/skins/win95/overlay.png)
+[!embed](/assets/image-comparison/index.html?o=/assets/images/skins/default/friends.png&n=/assets/images/skins/win95/friends.png)
 ==-
 
 ### Addon Previews
